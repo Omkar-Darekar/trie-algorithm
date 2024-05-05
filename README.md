@@ -5,6 +5,9 @@ Its versatility renders it indispensable in domains such as computer science and
 compilation : 
 
 Windows : 
-        > cl.exe /c /EHsc trie.cpp trie_client.cpp
-        > link.exe trie.obj trie_client.obj
-        > trie.exe  
+        
+> cl.exe /c /EHsc trie.cpp trie_client.cpp
+        
+> link.exe trie.obj trie_client.obj
+        
+> trie.exe  
