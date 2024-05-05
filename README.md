@@ -11,3 +11,10 @@ Windows :
 > link.exe trie.obj trie_client.obj
         
 > trie.exe  
+
+
+Linux :
+
+> g++ trie.cpp  trie_client.cpp -o trie
+
+> ./trie
